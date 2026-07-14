@@ -108,8 +108,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/signalist_stock-tracker-app.git
-cd signalist_stock-tracker-app
+git clone https://github.com/Bananefre/Stock-Market-app.git
+cd Stock-Market-app
 ```
 
 **Installation**
